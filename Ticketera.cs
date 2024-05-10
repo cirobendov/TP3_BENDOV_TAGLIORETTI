@@ -11,9 +11,10 @@ static class Ticketera
     }
     public static int AgregarCliente(Clientes cliente)
     {
+        UltimoIDEntrada++;
         dicCLientes.Add(UltimoIDEntrada, cliente);
-        return suma;
-        UltimoIDEntrada++;   
+        return UltimoIDEntrada;
+           
     }
     public static void BuscarCliente(int ID)
     {
