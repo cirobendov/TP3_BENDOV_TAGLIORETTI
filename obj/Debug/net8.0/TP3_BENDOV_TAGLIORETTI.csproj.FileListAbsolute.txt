@@ -1,0 +1,15 @@
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\bin\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.exe
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\bin\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.deps.json
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\bin\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.runtimeconfig.json
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\bin\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.dll
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\bin\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.pdb
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.AssemblyInfoInputs.cache
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.AssemblyInfo.cs
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.csproj.CoreCompileInputs.cache
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.sourcelink.json
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.dll
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\refint\TP3_BENDOV_TAGLIORETTI.dll
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.pdb
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\TP3_BENDOV_TAGLIORETTI.genruntimeconfig.cache
+Z:\Programacion 4to BEN_DOV\TP3_BENDOV_TAGLIORETTI\obj\Debug\net8.0\ref\TP3_BENDOV_TAGLIORETTI.dll
